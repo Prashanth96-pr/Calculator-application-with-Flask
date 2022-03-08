@@ -2,7 +2,7 @@
 
 http://Webcalculator-env.eba-ykwj3pap.us-east-1.elasticbeanstalk.com/
 
-this is a small web calculator application created using Python flask framework and deployed in AWS
+this is a small web calculator application created using Python flask framework and deployed in AWS(Elastic Beanstalk)
 
 https://flaskdemo-api.herokuapp.com/
 
